@@ -1,4 +1,6 @@
-// Import the Item interface (assuming it's defined elsewhere)
+// WARNING: Using 'useMemo' directly in this utility function is an **anti-pattern**.
+// React Hooks must only be called inside a functional component or a custom Hook.
+// Move this logic into a dedicated custom Hook (e.g., `useCalculatedTotals`) for correct behavior and memoization.
 
 import { useMemo } from 'react';
 import { Item } from 'src/types/item';
