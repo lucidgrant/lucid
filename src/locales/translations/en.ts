@@ -41,7 +41,7 @@ export const en = {
   [tokens.nav.add_ressource]: 'Ajout ressource',
   [tokens.nav.projects_management]: 'Bailleurs & Projets',
   [tokens.nav.invoices_management]: ' Factures émises',
-  [tokens.nav.clients_management]: 'Data Clients',
+  [tokens.nav.clients_management]: 'Donations',
   [tokens.nav.members_management]: 'Membres et Cotisations',
   [tokens.nav.login]: 'Login',
   [tokens.nav.logistics]: 'Logistics',
